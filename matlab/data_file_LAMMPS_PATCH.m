@@ -1,3 +1,10 @@
+% demo code to create a data.file for matlab 
+% input file: atom1, atom2
+%             bond1, bond2
+%             angle1, angle2
+% output file: data.file
+%             (including two molecules)
+
 clear all
 close all
 
